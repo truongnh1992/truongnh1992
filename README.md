@@ -1,5 +1,6 @@
 ### Hi, I'm Truong Nguyen.
-*<Father, Husband, Engineer/>*
+> Father, Husband, Engineer
+
 ### Blog & Public speaking
 My personal techblog at [truongnh.gdgcloudhanoi.com](https://truongnh.gdgcloudhanoi.com)
 | Time             | Event                                | Topic                                                        |
