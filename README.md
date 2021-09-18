@@ -6,7 +6,7 @@ My personal techblog at [truongnh.gdgcloudhanoi.com](https://truongnh.gdgcloudha
 | Time             | Event                                | Topic                                                        |
 |------------------|--------------------------------------|--------------------------------------------------------------|
 | August 24th 2019 | [OpenInfra Days Vietnam 2019](https://2019.vietopeninfra.org/)          | Bare metal cluster with Kubernetes, Istio & MetalLB          |
-| June 15th 2019   | [Google Cloud Next ’19 Extended Hanoi | Kubernetes: Upgrading your cluster without downtime practice |
+| June 15th 2019   | Google Cloud Next ’19 Extended Hanoi | Kubernetes: Upgrading your cluster without downtime practice |
 | January 5th 2019 | VietKubers Meetup #1                 | Deep dive into Container Networking                          |
 ### Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
