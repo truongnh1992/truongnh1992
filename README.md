@@ -2,7 +2,7 @@
 > Father, Husband, Engineer
 
 ### Blog & Public speaking
-My personal techblog at [truongnh.gdgcloudhanoi.com](https://truongnh.gdgcloudhanoi.com)
+My personal techblog at [truongnh1992.github.io](https://truongnh1992.github.io)
 | Time             | Event                                | Topic                                                        |
 |------------------|--------------------------------------|--------------------------------------------------------------|
 | August 24th 2019 | [OpenInfra Days Vietnam 2019](https://2019.vietopeninfra.org/)          | Bare metal cluster with Kubernetes, Istio & MetalLB          |
