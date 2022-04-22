@@ -5,6 +5,7 @@
 My personal techblog at [https://truongnh.cloud](https://truongnh.cloud)
 | Time             | Event                                | Topic                                                        |
 |------------------|--------------------------------------|--------------------------------------------------------------|
+| December 05th 2021   | Google Developer Student Clubs - HCMUS CS101 | Docker workshop |
 | August 24th 2019 | [OpenInfra Days Vietnam 2019](https://2019.vietopeninfra.org/)          | Bare metal cluster with Kubernetes, Istio & MetalLB          |
 | June 15th 2019   | Google Cloud Next ’19 Extended Hanoi | Kubernetes: Upgrading your cluster without downtime practice |
 | January 5th 2019 | VietKubers Meetup #1                 | Deep dive into Container Networking                          |
@@ -16,9 +17,8 @@ My personal techblog at [https://truongnh.cloud](https://truongnh.cloud)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white)
 
-<a href="https://github.com/truongnh1992/truongnh1992">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=truongnh1992&count_private=true&show_icons=true&show_owner=true" alt="Truong's GitHub Stats" />
-</a>
+### My Certifications
+[<img src="https://github.com/truongnh1992/truongnh1992.github.io/blob/main/assets/img/cka.png" width="200" height="200" />](https://www.credly.com/badges/030c1278-1cc5-4af6-b618-95724f0d598d)[<img src="https://github.com/truongnh1992/truongnh1992.github.io/blob/main/assets/img/pca.png" width="180" height="180"/>](https://www.credential.net/d89bc99f-9398-46f7-8f3e-ec945ab37d08)
 
 ### Connect with me
 
