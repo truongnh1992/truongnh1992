@@ -2,7 +2,7 @@
 > Father, Husband, Engineer
 
 ### Blog & Public speaking
-My personal techblog at [https://truongnh.cloud](https://truongnh.cloud)
+My personal techblog at [https://truongnh.dev](https://truongnh.dev)
 | Time             | Event                                | Topic                                                        |
 |------------------|--------------------------------------|--------------------------------------------------------------|
 | Dec 03rd 2022   | [DevFest Kuala Lumpur 2022](https://devfest22kl.peatix.com/) | Cloud Run in Action |
