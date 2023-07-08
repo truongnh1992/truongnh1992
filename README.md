@@ -1,5 +1,5 @@
 ### Hi, I'm Truong Nguyen.
-> Father, Husband, Engineer
+> Father, Husband, Engineer, Cloud GDE
 
 ### Blog & Public speaking
 My personal tech blog at [https://truongnh.dev](https://truongnh.dev)
