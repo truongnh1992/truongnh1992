@@ -2,7 +2,7 @@
 > Father, Husband, Engineer, Cloud GDE
 
 ### Blog & Public speaking
-My personal tech blog at [https://truongnh.dev](https://truongnh.dev)
+My personal tech blog at [https://truongnh-gde.dev](https://truongnh-gde.dev)
 
 ### Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
